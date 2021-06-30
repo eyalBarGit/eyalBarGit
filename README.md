@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://content.techgig.com/photo/77087595/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg" width="500" height="400" />
 
-### :raising_hand: About me:
+### :About me:
 
 Started my journey as a frontend developer using WordPress, as time went by I got enthusiastic about coding so I decided to learn coding in-depth and fell in love with it.
 Since then I kept learning new techniques and technologies that helps me improve myself as a developer. 
@@ -27,6 +27,7 @@ I never back down from a coding challenge, solving bugs is my cup of tea.
 <img align="left" alt="Bitbucket" width="26px" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" /> 
 <img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" /> 
 
 
